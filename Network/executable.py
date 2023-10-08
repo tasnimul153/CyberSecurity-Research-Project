@@ -23,11 +23,11 @@ for partition in partitions:
         #print(f"Drive {len(drive_names)}: {partition.device}")
 
 # Specify the email address you want to send the email from
-sender_email = "tasnimul.alam.cse@ulab.edu.bd"
+sender_email = "[RemovedEmail]"
 # Specify the corresponding email's password
-sender_password = "Abc153Xyz1531*"
+sender_password = "[RemovedPassword]"
 # Specify the email address you want to send the email to
-recipient_email = "darkanonymous153@gmail.com"
+recipient_email = "[RemovedEmail]"
 # Specify the email subject
 
 current_datetime = datetime.now().strftime("%Y-%m-%d_%H-%M")
